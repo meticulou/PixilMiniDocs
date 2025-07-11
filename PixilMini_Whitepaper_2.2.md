@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pixil Mini Whitepaper 2.2"
+title: Pixil Mini Whitepaper 2.2
 permalink: /whitepaper2.2
 ---
 
