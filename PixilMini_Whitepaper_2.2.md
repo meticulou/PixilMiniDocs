@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pixil Mini Whitepaper 2.2
-permalink: /whitepaper2.2
+permalink: /whitepaper
 ---
 
 # Pixil Mini: An Infinite World Blockchain RPG
