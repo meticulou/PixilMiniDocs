@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Pixil Mini Documentation
+title: Home
 ---
 Welcome to the Pixil Mini documentation. Browse the following:
 
